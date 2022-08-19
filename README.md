@@ -1,2 +1,2 @@
 # Teste Git
- repositório curso de Git e GitHub
+ Repositório curso de Git e GitHub
